@@ -1,0 +1,2 @@
+# enbot
+EN Discord Bot
